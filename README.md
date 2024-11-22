@@ -6,7 +6,7 @@
   <h1>
     Hi!
     I'm Gustavo Jimenez
-    <img src="" width=40 />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
