@@ -36,8 +36,8 @@ As a front-end developer with expertise in HTML, CSS, JavaScript, React, and Git
 Driven by curiosity and a commitment to innovation, I enjoy exploring new technologies and pushing the boundaries of what's possible through programming. Dedicated to producing high-quality work, I aim to exceed expectations and contribute meaningfully to any team. If you're looking for a motivated and skilled front-end developer, I'd be thrilled to connect and explore potential opportunities!
 
 - 🔭 I’m currently working on personal projects to create engaging and responsive web applications using React and modern front-end tools.
-🌱 I’m continuously learning about advanced front-end frameworks, optimizing user experiences, and exploring new design patterns and best practices.
-💬 Feel free to reach out to discuss anything related to front-end development—I’m always excited to collaborate and share ideas to create impactful solutions! :smile:.
+- 🌱I’m continuously learning about advanced front-end frameworks, optimizing user experiences, and exploring new design patterns and best practices.
+- 💬 Feel free to reach out to discuss anything related to front-end development—I’m always excited to collaborate and share ideas to create impactful solutions! :smile:.
 - 📫 How to reach me: email me [ttavojimenez26@gmail.com](mailto:ttavojimenez26@gmail.com), you can also contact me from my [website](https://ttavojimenez.github.io/portfolio/).
 
 
@@ -57,5 +57,3 @@ Driven by curiosity and a commitment to innovation, I enjoy exploring new techno
 ## :fire: My Stats:
 
 ------
-
-Credit: [al3sha9](https://github.com/al3sha9)
