@@ -11,16 +11,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:alishandev@proton.me">
+  <a href="ttavojimenez26@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://t.me/al3shan">
+  <a href="https://t.me/ttavojimenez">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://al3sha9.github.io/portfolio/">
+  <a href="https://ttavojimenez.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/alishxn_">
+  <a href="https://twitter.com/ttavojimenez">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
