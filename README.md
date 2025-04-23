@@ -31,10 +31,14 @@
 
 
 ## :man_technologist: About Me:
-As a front-end developer with expertise in HTML, CSS, JavaScript, React, and Git, I have honed my skills through hands-on projects that demonstrate my ability to create engaging and responsive web applications. My experience includes developing user-focused solutions with clean, efficient code while staying updated on the latest industry trends. I am passionate about designing intuitive interfaces and leveraging my technical expertise to deliver impactful solutions that enhance user experiences.
+Hello, I’m a Software Developer currently enrolled in the Oracle Next Education (ONE) program in partnership with Alura Latam.
 
-Driven by curiosity and a commitment to innovation, I enjoy exploring new technologies and pushing the boundaries of what's possible through programming. Dedicated to producing high-quality work, I aim to exceed expectations and contribute meaningfully to any team. If you're looking for a motivated and skilled front-end developer, I'd be thrilled to connect and explore potential opportunities!
+I have over a year of self-taught experience in web development (HTML, CSS, JavaScript).
+Currently, I’m deepening my knowledge in Java, object-oriented programming, Spring Boot, MySQL databases, and API development.
 
+Beyond technical skills, I’m defined by strengths such as time management, goal-oriented focus, and problem-solving. These abilities have allowed me to adapt to challenges, remain consistent, and make the most of every stage of my learning journey.
+
+- 🎯 My goal is to join a tech team where I can grow, contribute value, and continue learning continuously.
 - 🔭 I’m currently working on personal projects to create engaging and responsive web applications using React and modern front-end tools.
 - 🌱I’m continuously learning about advanced front-end frameworks, optimizing user experiences, and exploring new design patterns and best practices.
 - 💬 Feel free to reach out to discuss anything related to front-end development—I’m always excited to collaborate and share ideas to create impactful solutions! :smile:.
