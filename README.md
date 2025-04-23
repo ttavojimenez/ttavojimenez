@@ -39,8 +39,7 @@ Currently, I’m deepening my knowledge in Java, object-oriented programming, Sp
 Beyond technical skills, I’m defined by strengths such as time management, goal-oriented focus, and problem-solving. These abilities have allowed me to adapt to challenges, remain consistent, and make the most of every stage of my learning journey.
 
 - 🎯 My goal is to join a tech team where I can grow, contribute value, and continue learning continuously.
-- 🔭 I’m currently working on personal projects to create engaging and responsive web applications using React and modern front-end tools.
-- 🌱I’m continuously learning about advanced front-end frameworks, optimizing user experiences, and exploring new design patterns and best practices.
+- 🔭 I’m currently working on personal projects to create engaging and responsive web applications.
 - 💬 Feel free to reach out to discuss anything related to front-end development—I’m always excited to collaborate and share ideas to create impactful solutions! :smile:.
 - 📫 How to reach me: email me [ttavojimenez26@gmail.com](mailto:ttavojimenez26@gmail.com), you can also contact me from my [website](https://ttavojimenez.github.io/portfolio/).
 
@@ -51,7 +50,6 @@ Beyond technical skills, I’m defined by strengths such as time management, goa
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
