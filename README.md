@@ -40,7 +40,7 @@ Beyond technical skills, I’m defined by strengths such as time management, goa
 
 - 🎯 My goal is to join a tech team where I can grow, contribute value, and continue learning continuously.
 - 🔭 I’m currently working on personal projects to create engaging and responsive web applications.
-- 💬 Feel free to reach out to discuss anything related to front-end development—I’m always excited to collaborate and share ideas to create impactful solutions! :smile:.
+- 💬 Feel free to reach out to discuss anything related to development—I’m always excited to collaborate and share ideas to create impactful solutions! :smile:.
 - 📫 How to reach me: email me [ttavojimenez26@gmail.com](mailto:ttavojimenez26@gmail.com), you can also contact me from my [website](https://ttavojimenez.github.io/portfolio/).
 
 
